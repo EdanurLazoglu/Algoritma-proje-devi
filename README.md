@@ -7,9 +7,9 @@
 * deneme
 - deneme
 - deneme
-  ''' int main{
+  ```` int main{
   cout<<"Hello world!"<<endl;
   }
-  return 0;
+  return 0;```
   (kaynak)[www.google.com]
   
