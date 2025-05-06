@@ -1,1 +1,1 @@
-# Algoritma-proje-devi
+# Algoritma-proje-ödevi
