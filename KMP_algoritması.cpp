@@ -57,7 +57,7 @@ void KMPSearch(const string &text, const string &pattern) {
 // Test Örneði
 int main() {
     string text = "ababcabcabababd";
-    string pattern = "ababd";
+    string pattern = "ababd";```
 
     KMPSearch(text, pattern);
 
