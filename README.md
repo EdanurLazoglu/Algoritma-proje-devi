@@ -33,7 +33,3 @@ KMP algoritması ön işleme kullanır. Desenleri analiz eder ardından metin ü
 
 ## Zayıf Yanı
 - Yeni öğrenen biri için LPS dizisi karmaşık ve zor gelebilir. Çünkü kodlaması hata yapmaya açıktır. Bu yüzden desen çok kısa ve basitse daha basit algoritmalar kullanılabilir.
-```#include
-
-
-```
