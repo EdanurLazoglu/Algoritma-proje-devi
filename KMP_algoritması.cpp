@@ -1,5 +1,4 @@
-<pre>```cpp 
-#include <iostream>
+```#include <iostream>
 #include <vector>
 using namespace std;
 
@@ -63,5 +62,4 @@ int main() {
     KMPSearch(text, pattern);
 
     return 0;
-}
-```<pre>
+}```
